@@ -28,6 +28,7 @@ footer, header, hgroup, menu, nav, section {
 body {background-color: 000000;}
 body {
   line-height: 1;
+  font-family: "PT Sans", Calibri, Tahoma, sans-serif;
 }
 ol, ul {
   list-style: none;
