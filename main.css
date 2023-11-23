@@ -30,6 +30,9 @@ body {
   line-height: 1;
   font-family: "PT Sans", Calibri, Tahoma, sans-serif;
 }
+h1 {
+  font-size: 2rem;
+}
 ol, ul {
   list-style: none;
 }
