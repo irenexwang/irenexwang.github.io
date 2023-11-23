@@ -27,7 +27,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {background-color: 000000;}
 body {
-  line-height: 1;
+  line-height: 1.25;
   font-family: "PT Sans", Calibri, Tahoma, sans-serif;
 }
 h1 {
