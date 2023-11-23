@@ -34,6 +34,9 @@ h1 {
   font-size: 2rem;
   font-weight: 200;
 }
+h2 {
+  font-weight: 200;
+}
 ol, ul {
   list-style: none;
 }
