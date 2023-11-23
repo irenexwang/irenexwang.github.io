@@ -36,6 +36,7 @@ h1 {
 }
 h2 {
   font-weight: 200;
+  color: red;
 }
 ol, ul {
   list-style: none;
